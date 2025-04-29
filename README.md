@@ -29,5 +29,5 @@ Este projeto foi desenvolvido por mim utilizando **React**, **Vite** e **Tailwin
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/pib-dashboard.git
+git clone https://github.com/MiguelGomesO/pib-dashboard.git
 cd pib-dashboard
